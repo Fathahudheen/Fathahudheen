@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fathahudheen Ali</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
 
-- 🔭 I’m currently working on **Academic managment system**
+- 🔭 I’m currently working on **Academic managment system** project
 
 - 🌱 I’m currently learning **MERN**
 
