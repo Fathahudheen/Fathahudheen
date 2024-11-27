@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack web developer from India</h3>
 
 
-- 📫 How to reach me **vfathahu123@gmail.com**
+- 📫 How to reach me **fathahuali@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
