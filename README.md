@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fathahudheen Ali</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
+<h3 align="center">A passionate front-developer and I excel in fast-paced environments and am confident in my ability to quickly pick up and adapt to new technologies. I’m eager to take on complex technical challenges and am passionate about learning and growing. I’m excited to work on meaningful projects that drive innovation and make a difference.</h3>
 
 
 - 📫 How to reach me **fathahuali@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 
